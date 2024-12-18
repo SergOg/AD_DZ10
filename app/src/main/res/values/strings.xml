@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DZ10</string>
+    <string name="header">Inverse Timer</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="timer">15</string>
+</resources>
