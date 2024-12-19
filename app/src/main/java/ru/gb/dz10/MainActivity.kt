@@ -74,6 +74,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         }
+        redraw()
     }
 
     @SuppressLint("SetTextI18n")
